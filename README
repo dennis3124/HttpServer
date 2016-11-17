@@ -1,0 +1,13 @@
+Implemented:
+
+	Basic server
+	concurrency
+		-t thread
+		-p pool of thread
+		-f processes
+	Url to file Mapping
+
+NOT IMPLEMENTED:
+	CGI-BIN
+	BROWSING DIRECTORIES;
+
